@@ -1,0 +1,14 @@
+2026-11-10 17:01:59,824 - INFO - Calculator started
+2026-11-10 17:02:10,826 - INFO - Input data: 3.0, 6.0
+2026-11-10 17:02:10,826 - INFO - Operation: +
+2026-11-10 17:02:10,826 - INFO - Result: 9.0
+2026-11-10 17:02:19,486 - INFO - Input data: 10.0, 3.0
+2026-11-10 17:02:19,486 - INFO - Operation: -
+2026-11-10 17:02:19,486 - INFO - Result: 7.0
+2026-11-10 17:02:30,994 - INFO - Input data: 5.0, 8.0
+2026-11-10 17:02:30,994 - INFO - Operation: *
+2026-11-10 17:02:30,994 - INFO - Result: 40.0
+2026-11-10 17:02:40,988 - INFO - Input data: 9.0, 0.0
+2026-11-10 17:02:40,988 - INFO - Operation: /
+2026-11-10 17:02:40,988 - ERROR - Operation failed
+2026-11-10 17:02:48,915 - INFO - Calculator finished
