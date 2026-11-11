@@ -19,4 +19,8 @@ add solution for task1
 add folder topic_05
 add solution for task1 task2 task3
 
+# 2026-11-11
+add folder topic_06
+
+add folder topic_07
 # TP-KB-252-Anastasia-Khromets
