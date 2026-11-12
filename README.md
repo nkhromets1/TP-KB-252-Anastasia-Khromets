@@ -23,4 +23,11 @@ add solution for task1 task2 task3
 add folder topic_06
 
 add folder topic_07
+
+# 2026-11-12
+
+add folder lab_03 add solution for lab_03 and report
+
+add folder lab_04 add solution for lab_04 and report
+
 # TP-KB-252-Anastasia-Khromets
